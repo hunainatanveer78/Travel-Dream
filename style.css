@@ -1,0 +1,361 @@
+/* *{
+    border: 1px solid blue;
+} */
+.h62{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img1{
+    width: 3rem;
+}
+.navbar-collapse{
+    margin-left: 60%;
+}
+
+
+.nav-link{
+    font-size: 1rem;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+} 
+.nav{
+    background: white;
+}
+.h6p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+     margin-top: 10%;
+}
+.cont1{
+    background-image: url(img/file-20210115-21-90wsyw.avif);
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding: 20%;
+}
+.span12{
+    font-size: 3rem;
+}
+.h123{
+    color: white;
+    font-size: 3rem;
+}
+.h456{
+    color: white;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.e3{
+    background: black;
+    color: white;
+    padding: 2%;
+}
+.input1{
+    width: 15rem;
+}
+.input2{
+    width: 7rem;
+}
+.input3{
+    width: 6rem;
+}
+.e3{
+    
+        background: black;
+        color: white;
+        padding: 2%;
+}
+.btn13{
+    width: 11rem;
+}
+.rw1234{
+    margin-top: 13%;
+}
+.icon1{
+font-size: 3rem;
+text-align: center;
+color: blue;
+}
+.card1{
+   width: 30%;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+.title{
+    font-size: 1rem;
+}
+.h6col{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+.h1col{
+    text-align: center;
+
+    font-size: 2rem;
+}
+.h3452{
+    text-align: center;
+    color: rgb(249, 65, 255);
+    font-weight: bold;
+    font-size: 1rem;
+}
+.div2{
+    background-image: url(img/Garden-Kinkaku-Temple-shelter-structure-use-landscape.webp);
+    background-size: cover;
+    padding: 10%;
+}
+.div3{
+    background-image: url(img/images\ \(2\).jpeg);
+    background-size: cover;
+    padding: 10%;
+}
+.div4{
+    background-image: url(img/images\ \(1\).jpeg);
+    background-size: cover;
+   padding: 10%;
+}
+.h3d{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.h23436{
+    background-image:linear-gradient(rgb(115,114,185,0.5),rgb(115, 114, 185,0.5)) ,url(img/Nanga_Parbat_The_Killer_Mountain.jpg);
+    background-size: cover;
+   padding: 140px;
+}
+.h65543{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    text-align: center;
+}
+.h6740{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+}
+.sec6{
+    text-align: center;
+}
+.bottun12{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    text-align: center;
+}
+.bluebtn:hover{
+color: blue;
+background: white;
+
+border: 2px solid blue;
+}
+.Join:hover{
+color: black;
+border: 2px solid black;
+background: white;
+}
+.titl123{
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icon675{
+    color: blue;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icon675:hover{
+    color: blueviolet;
+}
+.top{
+height: 60px;
+    width: 60px;
+}
+.sec4{
+    background-color: #FBF7F6;
+}
+.h61t{
+    text-align: center;
+    font-size: 1rem;
+}
+.h6t2{
+    font-size: 1rem;
+    text-align: center;
+    color: #BAB8B9;
+}
+.DarkBlue{
+    background-image:linear-gradient(rgba(11, 9, 84, 0.9),rgba(11, 10, 69, 0.9)) ,url(img/images\ \(5\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.LikeBlue{
+    background-color: #0276C1;
+}
+.h5t1{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    margin-top: 20%;
+}
+.h4t1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+.h2t1{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+.h5t2{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: white;
+}
+.h3t2{
+    font-size: 2rem;
+    color: white;
+}
+.span1{
+    font-size: 1rem;
+    background-color: orangered;
+    padding: 1%;
+}
+.h3t3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h6t4{
+color: white;
+font-family: 'Times New Roman', Times, serif;
+}
+.h6t6{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.footh2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100px;
+}
+/* .sec6footer{
+    padding: 500px;
+}
+
+*/
+.foth6{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+/* .btn{
+background-color: black;
+border: 1px solid burlywood;
+color: white;
+outline: #CCA772;
+} */
+.btn:hover{
+background-color: #CCA772;
+color: white;
+width: 100%;
+
+}
+.icon{
+align-items: end;
+margin-left: auto;
+
+}
+.sec6footer{
+padding: 10%;
+
+margin-top: 5%;
+padding-top: 5%;
+
+}
+.footh2{
+color: black;
+}
+.foth6{
+color: #7B8187;
+font-size: 1rem;
+}
+.Copyright{
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 1rem;
+border: none;
+outline: none;
+}
+/* .fa-brands{
+color: white; */
+
+
+
+/* body{
+min-height: 100vh;
+width: 100vw;
+overflow-x: hidden; */
+
+.sec19{
+font-family: 'Times New Roman', Times, serif;
+color: white;
+font-weight: 100px;
+text-align: center;
+}
+.sec13{
+font-family: 'Times New Roman', Times, serif;
+color: white;
+font-weight: 100px;  
+text-align: center;
+justify-content: center;
+}
+.btnbutton6{
+margin: -20%;
+padding: 4%;
+width: 35%;
+background-color: #CCA772;
+font-family: 'Times New Roman', Times, serif;
+outline: #CCA772;
+font-size: 1rem;
+border-radius: 20%;
+}
+.input45{
+padding: 7px;
+background: #363A4B;
+outline: none;
+}
+.card-title1:hover{
+color: #CCA772;
+}
+.btn5:hover{
+color: #CCA772;
+border: none;
+background-color: white;
+}
+.btn5{
+border: none;
+background-color: white;
+}
+.btn4:hover{
+color: #007BCE;
+border: none;
+background-color: white;
+}
+.btn4{
+border: none;
+background-color: white;
+}
+/* .btnbutton6{
+font-size: 1rem;
+} */
